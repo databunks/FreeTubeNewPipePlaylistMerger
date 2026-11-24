@@ -19,3 +19,6 @@ so this has been created as an easier method of doing so.
 - Thumbnails for playlists will first appear as empty as the script is designed to work when offline but they will eventually load when you click into them, you can reset the thumbnail of the playlist inside of NewPipe too. (feel free to make a pull request to add an online version)
 - This works best on Linux. (has not been tested on windows)
 - To merge newpipe playlists into freetube [use this tool](https://github.com/Rezarys/playlistcarry).
+
+## Todo
+- Optimize code to remove redundant database queries
