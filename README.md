@@ -1,5 +1,5 @@
 # FreetubeNewPipePlaylistMerger
-A simple Golang script to merge FreeTube playlists into NewPipe
+A simple Golang script to merge FreeTube playlists into NewPipe.
 
 ## Why this was created
 While there are tools to merge NewPipe playlists into FreeTube, as of the time of the creation of this script there has been no known scripts which merge FreeTube playlists into NewPipe,
