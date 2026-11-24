@@ -8,7 +8,7 @@ so this has been created as an easier method of doing so.
 ## How to use
 1) cd into the same directory as main.go
 2) Run the command:
-`go run main.go -f "<path to freetube playlists file (.db)>" -n "<Path to newpipe database file"`
+`go run main.go -f "<path to freetube playlists file (.db)>" -n "<Path to newpipe database file>"`
 
 ## Optional
 - It is highly recommended to use this with syncthing (https://syncthing.net/) for ease of use, that way you can export to a shared folder and easily transfer files.
